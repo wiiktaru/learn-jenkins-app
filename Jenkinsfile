@@ -33,7 +33,7 @@ pipeline {
              }
            steps {
             sh '''
-            test -f build/$BUILD_FILE_NAME'
+            test -f build/$BUILD_FILE_NAME
             npm test
             '''
            }
