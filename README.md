@@ -1,3 +1,5 @@
+## This is not my own code - this is a practice project from Udemy course "Jenkins: Jobs, Pipelines, CI/CD and DevOps for Beginners"
+
 # Learn Jenkins App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
