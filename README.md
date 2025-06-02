@@ -1,4 +1,4 @@
-## This is not my own code - this is a practice project from Udemy course "Jenkins: Jobs, Pipelines, CI/CD and DevOps for Beginners"
+## This is not my own code - this is a practice project from Udemy course "Jenkins: Jobs, Pipelines, CI/CD and DevOps for Beginners" which I follow step-by-step
 
 # Learn Jenkins App
 
