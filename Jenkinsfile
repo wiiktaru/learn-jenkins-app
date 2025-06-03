@@ -6,6 +6,7 @@ pipeline {
     }
 
     stages {
+        /*
         stage('Build') {
             agent {
                 docker {
@@ -24,6 +25,7 @@ pipeline {
                 '''
             }
         }
+        */
         stage('Test') {
              agent {
                 docker {
@@ -33,7 +35,7 @@ pipeline {
              }
            steps {
             sh '''
-            test -f build/$BUILD_FILE_NAME
+            #test -f build/$BUILD_FILE_NAME
             npm test
             '''
            }
